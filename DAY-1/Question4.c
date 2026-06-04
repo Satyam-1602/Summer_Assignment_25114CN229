@@ -1,3 +1,4 @@
+//Write a program to count the number of digits in a given number.
 #include<stdio.h>
 int countDigits(int num){
     int count=0;

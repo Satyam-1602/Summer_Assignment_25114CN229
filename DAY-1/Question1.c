@@ -1,3 +1,4 @@
+//Write a program to calculate the sum of first N natural numbers.
 #include<stdio.h>
 int SumOfNaturalNumbers(int n){
     int sum=0;
